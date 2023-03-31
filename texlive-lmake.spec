@@ -1,6 +1,6 @@
 Name:		texlive-lmake
 Version:	25552
-Release:	1
+Release:	2
 Summary:	Process lists to do repetitive actions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lmake
