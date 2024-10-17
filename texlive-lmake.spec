@@ -3,7 +3,7 @@ Version:	25552
 Release:	2
 Summary:	Process lists to do repetitive actions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lmake
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lmake
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lmake.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lmake.doc.r%{version}.tar.xz
